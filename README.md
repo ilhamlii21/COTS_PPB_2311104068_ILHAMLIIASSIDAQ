@@ -26,6 +26,14 @@ Setelah menambahkan gambar, Anda bisa menampilkan mereka di README dengan contoh
 - `lib/presentation` — UI (pages & widgets)
 - `lib/design_system` — tema, warna, spacing, typography
 
+## 🎯 Tujuan Aplikasi
+
+- Menampilkan daftar resep masakan
+- Menambahkan resep baru
+- Mengambil dan menyimpan data resep menggunakan **Supabase REST API**
+- Menerapkan **state management menggunakan Provider**
+- Menggunakan **design system** agar tampilan konsisten
+
 Anda dapat mengikuti struktur ini atau menyesuaikannya. Proyek ini sudah menggunakan `provider` untuk state management, namun Anda bebas memakai `Riverpod`, `Bloc`, atau solusi lain.
 
 ## Menambahkan screenshot
