@@ -17,6 +17,7 @@ Setelah menambahkan gambar, Anda bisa menampilkan mereka di README dengan contoh
 ![Daftar Resep](docs/screenshots/list.png)
 ![Detail Resep](docs/screenshots/detail.png)
 ![Tambah Resep](docs/screenshots/add_recipe.png)
+<img width="613" height="971" alt="Screenshot 2026-01-09 153536" src="https://github.com/user-attachments/assets/e81dd62a-9b3b-4e5c-ba2e-ffc6c4b4c004" />
 
 ## Struktur Folder (direkomendasikan)
 
