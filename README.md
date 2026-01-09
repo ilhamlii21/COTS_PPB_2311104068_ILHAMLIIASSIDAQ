@@ -13,7 +13,7 @@ Letakkan screenshot aplikasi pada folder `docs/screenshots` dengan nama-nama ber
 
 Setelah menambahkan gambar, Anda bisa menampilkan mereka di README dengan contoh markdown berikut:
 
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard]("C:\Users\ASUS\Pictures\Screenshots\Screenshot 2026-01-09 153536.png")
 ![Daftar Resep](docs/screenshots/list.png)
 ![Detail Resep](docs/screenshots/detail.png)
 ![Tambah Resep](docs/screenshots/add_recipe.png)
